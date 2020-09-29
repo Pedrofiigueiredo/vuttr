@@ -1,8 +1,6 @@
 <h1 align="center">⚙️ VUTTR</h1>
 <p align="center">Very Useful Tools to Remember</p>
 
-![SignUp Mobile](screenshot/Mockup.png)
-
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Pedrofiigueiredo/vuttr?color=ea691a&style=flat-square">
   <img alt="GitHub issues" src="https://img.shields.io/badge/author-Pedro%20Figueiredo-green?color=ea691a&style=flat-square">
@@ -12,6 +10,8 @@
     <img alt="Stargazers" src="https://img.shields.io/github/stars/Pedrofiigueiredo/vuttr?style=social">
   </a>
 </p>
+
+![SignUp Mobile](screenshot/App.png)
 
 Tabela de conteúdos
 =================
@@ -35,3 +35,5 @@ Tabela de conteúdos
 - [x] Cadastro de nova ferramenta
 - [x] Deletar ferramenta
 
+Como usar
+=================
