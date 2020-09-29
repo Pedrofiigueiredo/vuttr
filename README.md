@@ -13,14 +13,14 @@
 
 <p align="center">
  <a href="#sobre">Sobre</a> •
- <a href="#instalacao-e-execucao">Instalação e execução</a> •
+ <a href="##instalação-e-execução">Instalação e execução</a> •
 </p>
 
 ![SignUp Mobile](screenshot/App.png)
 
-## Sobre
+## 📖 Sobre
 
-😉 O repositório é um desafio da [BossaBox](https://bossabox.com/para-profissionais), para demostrar meus conhecimentos de front-end.
+O repositório é um desafio da [BossaBox](https://bossabox.com/para-profissionais), para demostrar meus conhecimentos de front-end.
 Escolhi usar [React](https://pt-br.reactjs.org/).
 
 *Com essa app podemos:*
@@ -28,7 +28,7 @@ Escolhi usar [React](https://pt-br.reactjs.org/).
 - [x] Cadastrar uma nova ferramenta com link, descrição e tags
 - [x] Deletar ferramentas
 
-## Instalação e execução
+## 💽 Instalação e execução
 
 ### ✅ Pré-requisitos
 
@@ -49,4 +49,19 @@ Para começarmos, você precisa já ter instalado na sua máquina o:
   1. Clone esse repositório
   2. Acesse a pasta do projeto e instale as dependências ```cd vuttr && npm i```
   3. Rode ```npm start``` ou ```yarn start```
+  
   *Como o back-end está na porta 3000, você deverá aceitar que o front-end rode em outra*
+  
+## Screenshots
+
+### Adicionar ferramenta
+<p align="center">
+  <img src="./screenshot/AddNew.png"/>
+  <img src="./screenshot/AddNewMobile.png"/>
+</p>
+![AddNew](screenshot/AddNew.png)
+![AddNewMobile](screenshot/AddNewMobile.png)
+
+### Adicionar ferramenta
+![AddNew](screenshot/AddNew.png)
+
