@@ -1,0 +1,39 @@
+#Remove .popup {
+  left: 30%;
+  right: 30%;
+  top: 40%;
+}
+
+@media (max-width: 700px) {
+  #Remove .popup {
+    left: 10%;
+    right: 10%;
+    top: 40%;
+  }
+}
+
+.popup div {
+  display: flex;
+  justify-content: flex-end;
+  margin: 1rem 0;
+}
+
+.popup h3 {
+  font-weight: 500;
+}
+
+.popup button {
+  height: 30px;
+}
+
+.popup .secondary {
+  font-weight: 400;
+}
+
+.popup div button:not(.secondary) {
+  background: #f95e5a;
+}
+
+.popup div button:not(.secondary):hover {
+  background: #cc4c4c;
+}
