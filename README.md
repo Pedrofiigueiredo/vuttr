@@ -11,17 +11,14 @@
   </a>
 </p>
 
+<p align="center">
+ <a href="#sobre">Sobre</a> •
+ <a href="#instalacao-e-execucao">Instalação e execução</a> •
+</p>
+
 ![SignUp Mobile](screenshot/App.png)
 
-Tabela de conteúdos
-=================
-<!--ts-->
-   * [Sobre](#Sobre)
-   * [Instalação e execução](#instalacao-e-execucao)
-<!--te-->
-
-Sobre
-=================
+## Sobre
 
 😉 O repositório é um desafio da [BossaBox](https://bossabox.com/para-profissionais), para demostrar meus conhecimentos de front-end.
 Escolhi usar [React](https://pt-br.reactjs.org/).
@@ -31,8 +28,7 @@ Escolhi usar [React](https://pt-br.reactjs.org/).
 - [x] Cadastrar uma nova ferramenta com link, descrição e tags
 - [x] Deletar ferramentas
 
-Instalação e execução
-=================
+## Instalação e execução
 
 ### ✅ Pré-requisitos
 
@@ -54,4 +50,3 @@ Para começarmos, você precisa já ter instalado na sua máquina o:
   2. Acesse a pasta do projeto e instale as dependências ```cd vuttr && npm i```
   3. Rode ```npm start``` ou ```yarn start```
   *Como o back-end está na porta 3000, você deverá aceitar que o front-end rode em outra*
-
