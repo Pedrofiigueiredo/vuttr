@@ -1,9 +1,7 @@
 <h1 align="center">⚙️ VUTTR</h1>
 <p align="center">Very Useful Tools to Remember</p>
 
-https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
-https://www.loom.com/share/af942c8a793046c8b47be9cd352bb331
-
+![SignUp Mobile](screenshot/Mockup.png)
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Pedrofiigueiredo/vuttr?color=ea691a&style=flat-square">
@@ -36,5 +34,4 @@ Tabela de conteúdos
 - [x] Buscar por ferramenta ou tag de ferramentas
 - [x] Cadastro de nova ferramenta
 - [x] Deletar ferramenta
-
 
