@@ -13,7 +13,8 @@
 
 <p align="center">
  <a href="#sobre">Sobre</a> •
- <a href="##instalação-e-execução">Instalação e execução</a> •
+ <a href="#instalação-e-execução">Instalação e execução</a> •
+ <a href="#screenshots">Screenshots</a>
 </p>
 
 ![SignUp Mobile](screenshot/App.png)
@@ -55,13 +56,9 @@ Para começarmos, você precisa já ter instalado na sua máquina o:
 ## Screenshots
 
 ### Adicionar ferramenta
-<p align="center">
-  <img src="./screenshot/AddNew.png"/>
-  <img src="./screenshot/AddNewMobile.png"/>
-</p>
-![AddNew](screenshot/AddNew.png)
-![AddNewMobile](screenshot/AddNewMobile.png)
 
-### Adicionar ferramenta
 ![AddNew](screenshot/AddNew.png)
+
+### Remover ferramenta
+![Remove](screenshot/Remove.png)
 
