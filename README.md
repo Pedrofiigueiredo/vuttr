@@ -1,5 +1,5 @@
-<h1 align="center">⚙️ VUTTR</h1>
-<p align="center">Very Useful Tools to Remember</p>
+<h1 align="center">⚙️ VUTTR - Very Useful Tools to Remember</h1>
+<p align="center">Uma aplicação para gerenciar ferramentas úteis no seu dia a dia</p>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Pedrofiigueiredo/vuttr?color=ea691a&style=flat-square">
@@ -17,23 +17,41 @@ Tabela de conteúdos
 =================
 <!--ts-->
    * [Sobre](#Sobre)
-   * [Tabela de Conteudo](#tabela-de-conteudo)
-   * [Instalação](#instalacao)
-   * [Como usar](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-   * [Tests](#testes)
-   * [Tecnologias](#tecnologias)
+   * [Instalação e execução](#instalacao-e-execucao)
 <!--te-->
 
-### Features
-
-- [x] Buscar por ferramenta ou tag de ferramentas
-- [x] Cadastro de nova ferramenta
-- [x] Deletar ferramenta
-
-Como usar
+Sobre
 =================
+
+😉 O repositório é um desafio da [BossaBox](https://bossabox.com/para-profissionais), para demostrar meus conhecimentos de front-end.
+Escolhi usar [React](https://pt-br.reactjs.org/).
+
+*Com essa app podemos:*
+- [x] Buscar por ferramenta ou tag
+- [x] Cadastrar uma nova ferramenta com link, descrição e tags
+- [x] Deletar ferramentas
+
+Instalação e execução
+=================
+
+### ✅ Pré-requisitos
+
+Para começarmos, você precisa já ter instalado na sua máquina o:
+[Git](https://git-scm.com), o [Node.js](https://nodejs.org/en/) e o [NPM](https://www.npmjs.com/) ou [Yarn](https://yarnpkg.com/)
+
+### 🎲 Back-end
+
+*No desafio, foi disponibilizada uma API pronta em NodeJS*
+
+  1. Clone o repositório da API```$ git clone <https://gitlab.com/bossabox/challenge-fake-api/tree/master>```
+  2. Entre na pasta do projeto e instale as dependências ```cd challenge-fake-api && yarn``` ou ```cd challenge-fake-api && npm i```
+  3. Rode ```npx json-server db.json``` para inicializar o servidor
+  *servidor inciará na porta:3000*
+  
+### 👨‍💻 Front-end
+
+  1. Clone esse repositório
+  2. Acesse a pasta do projeto e instale as dependências ```cd vuttr && npm i```
+  3. Rode ```npm start``` ou ```yarn start```
+  *Como o back-end está na porta 3000, você deverá aceitar que o front-end rode em outra*
+
