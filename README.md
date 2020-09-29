@@ -6,15 +6,15 @@
   <img alt="GitHub issues" src="https://img.shields.io/badge/author-Pedro%20Figueiredo-green?color=ea691a&style=flat-square">
   <img alt="GitHub issues" src="https://img.shields.io/github/license/Pedrofiigueiredo/vuttr?color=ea691a&style=flat-square">
   
-  <a href="https://github.com/Rocketseat/live-graphql/stargazers">
+  <a href="https://github.com/Pedrofiigueiredo/vuttr/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/Pedrofiigueiredo/vuttr?style=social">
   </a>
 </p>
 
 <p align="center">
- <a href="#sobre">Sobre</a> •
- <a href="#instalação-e-execução">Instalação e execução</a> •
- <a href="#screenshots">Screenshots</a>
+ <a href="#-sobre">Sobre</a> •
+ <a href="#-instalação-e-execução">Instalação e execução</a> •
+ <a href="#-screenshots">Screenshots</a>
 </p>
 
 ![SignUp Mobile](screenshot/App.png)
@@ -53,7 +53,7 @@ Para começarmos, você precisa já ter instalado na sua máquina o:
   
   *Como o back-end está na porta 3000, você deverá aceitar que o front-end rode em outra*
   
-## Screenshots
+## 📸 Screenshots
 
 ### Adicionar ferramenta
 
